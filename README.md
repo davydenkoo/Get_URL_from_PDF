@@ -1,2 +1,2 @@
 # Get_URL_from_PDF
-Parse a PDF file and get URLs from it
+Application for parsing a PDF file and getting URLs from it
